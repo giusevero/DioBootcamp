@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "53B14726-3E36-4CB9-986B-B83044977E07"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99035B45-390D-4AA6-9A12-3D0C0E4D3B58"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DioCLT/ArrayChallenge.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "obterAnalisesDesempenho(dataInicial:dataFinal:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "99035B45-390D-4AA6-9A12-3D0C0E4D3B58 - cf0fed69b879e757"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DioCLT.InterfaceAcionistas.obterAnalisesDesempenho(dataInicial: Swift.String, dataFinal: Swift.String) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "DioCLT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giusevero/Documents/DioBootcamp/DioCLT/DioCLT/ArrayChallenge.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "99035B45-390D-4AA6-9A12-3D0C0E4D3B58 - 60d8555f80784fa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (DioCLT.Analise) -&gt; Swift.Optional&lt;Swift.String&gt; in DioCLT.InterfaceAcionistas.obterAnalisesDesempenho(dataInicial: Swift.String, dataFinal: Swift.String) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "DioCLT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giusevero/Documents/DioBootcamp/DioCLT/DioCLT/ArrayChallenge.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

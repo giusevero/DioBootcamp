@@ -1,0 +1,6 @@
+framework module Pods_DioFirstFinalChallenge {
+  umbrella header "Pods-DioFirstFinalChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
