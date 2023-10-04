@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "14136439-A165-46A5-BF33-2CA3062F4DA8"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EB6C938-B2DC-49B5-84C7-CCB8F83DCB22"
+            shouldBeEnabled = "No"
+            ignoreCount = "1"
+            continueAfterRunningActions = "No"
+            filePath = "../DioBootcampNetwork/DioBootcampNetwork/Classes/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "sendRequest(endpoint:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6EB6C938-B2DC-49B5-84C7-CCB8F83DCB22 - ce7356a924adae7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for DioBootcampNetwork.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: DioBootcampNetwork.Endpoint, responseModel: &#x3c4;_1_0.Type) async -&gt; Swift.Result&lt;&#x3c4;_1_0, DioBootcampNetwork.RequestError&gt;"
+                  moduleName = "DioBootcampNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giusevero/Documents/DioBootcamp/DioFinalChallenge/DioBootcampNetwork/DioBootcampNetwork/Classes/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "2072">
+               </Location>
+               <Location
+                  uuid = "6EB6C938-B2DC-49B5-84C7-CCB8F83DCB22 - ce7356a924adae5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for DioBootcampNetwork.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: DioBootcampNetwork.Endpoint, responseModel: &#x3c4;_1_0.Type) async -&gt; Swift.Result&lt;&#x3c4;_1_0, DioBootcampNetwork.RequestError&gt;"
+                  moduleName = "DioBootcampNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giusevero/Documents/DioBootcamp/DioFinalChallenge/DioBootcampNetwork/DioBootcampNetwork/Classes/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "6EB6C938-B2DC-49B5-84C7-CCB8F83DCB22 - ce7356a924adb193"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for DioBootcampNetwork.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: DioBootcampNetwork.Endpoint, responseModel: &#x3c4;_1_0.Type) async -&gt; Swift.Result&lt;&#x3c4;_1_0, DioBootcampNetwork.RequestError&gt;"
+                  moduleName = "DioBootcampNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giusevero/Documents/DioBootcamp/DioFinalChallenge/DioBootcampNetwork/DioBootcampNetwork/Classes/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
