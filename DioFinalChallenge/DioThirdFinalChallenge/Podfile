@@ -5,8 +5,8 @@ target 'DioThirdFinalChallenge' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  pod 'DioBootcampNetwork/Debug', :path => '/Users/giusevero/Documents/DioBootcamp/DioFinalChallenge/DioBootcampNetwork'
+  # pod 'DioBootcampNetwork/Debug', :path => '/Users/giusevero/Documents/DioBootcamp/DioFinalChallenge/DioBootcampNetwork'
   pod 'lottie-ios'
   pod 'SDWebImage', '~> 5.0'
-  
+  pod 'DioNetworkBootcamp', :git => 'https://github.com/giusevero/DioNetworkBootcamp', :branch => 'main'
 end

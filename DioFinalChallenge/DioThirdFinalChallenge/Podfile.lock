@@ -1,12 +1,12 @@
 PODS:
-  - DioBootcampNetwork/Debug (0.1.0)
+  - DioNetworkBootcamp (1.0.1)
   - lottie-ios (4.3.3)
   - SDWebImage (5.18.2):
     - SDWebImage/Core (= 5.18.2)
   - SDWebImage/Core (5.18.2)
 
 DEPENDENCIES:
-  - DioBootcampNetwork/Debug (from `/Users/giusevero/Documents/DioBootcamp/DioFinalChallenge/DioBootcampNetwork`)
+  - DioNetworkBootcamp (from `https://github.com/giusevero/DioNetworkBootcamp`, branch `main`)
   - lottie-ios
   - SDWebImage (~> 5.0)
 
@@ -16,14 +16,20 @@ SPEC REPOS:
     - SDWebImage
 
 EXTERNAL SOURCES:
-  DioBootcampNetwork:
-    :path: "/Users/giusevero/Documents/DioBootcamp/DioFinalChallenge/DioBootcampNetwork"
+  DioNetworkBootcamp:
+    :branch: main
+    :git: https://github.com/giusevero/DioNetworkBootcamp
+
+CHECKOUT OPTIONS:
+  DioNetworkBootcamp:
+    :commit: 686be5bab71be4355e32c8d5e1a5cbf2b6479522
+    :git: https://github.com/giusevero/DioNetworkBootcamp
 
 SPEC CHECKSUMS:
-  DioBootcampNetwork: 60f77a2cd8b714b53f4b57aea4c62846961dfdc4
+  DioNetworkBootcamp: 2566d675246aa1602c174265a75a288f20f8d255
   lottie-ios: 25e7b2675dad5c3ddad369ac9baab03560c5bfdd
   SDWebImage: c0de394d7cf7f9838aed1fd6bb6037654a4572e4
 
-PODFILE CHECKSUM: 4a5781fd82846b06b294337614bf4c2795cddadb
+PODFILE CHECKSUM: 29fab5578d2b11873a529c66e03b3931b0898722
 
 COCOAPODS: 1.13.0

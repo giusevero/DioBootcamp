@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import DioBootcampNetwork
+import DioNetworkBootcamp
 
 enum PersonaEndpoint {
     case allPersonas(page: Int?)
@@ -33,7 +33,7 @@ extension PersonaEndpoint: Endpoint {
         }
     }
     
-    var method: DioBootcampNetwork.HTTPMethod {
+    var method: DioNetworkBootcamp.HTTPMethod {
         return .get
     }
     

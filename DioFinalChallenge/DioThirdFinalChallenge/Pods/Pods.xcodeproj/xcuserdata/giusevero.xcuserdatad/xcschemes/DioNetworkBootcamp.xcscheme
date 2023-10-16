@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "65DDAC4ACA86E381E4CEE12D9A1DFD7B"
-               BuildableName = "DioBootcampNetwork.framework"
-               BlueprintName = "DioBootcampNetwork"
+               BlueprintIdentifier = "3633352D5F2D1C1A4D5687FE5FBAD631"
+               BuildableName = "DioNetworkBootcamp.framework"
+               BlueprintName = "DioNetworkBootcamp"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

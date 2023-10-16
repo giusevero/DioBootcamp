@@ -1,9 +1,9 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## DioBootcampNetwork
+## DioNetworkBootcamp
 
-Copyright (c) 2023 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 <giusevero@hotmail.com>
+Copyright (c) 2023 giusevero <giusevero@hotmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

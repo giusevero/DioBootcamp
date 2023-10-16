@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double DioBootcampNetworkVersionNumber;
-FOUNDATION_EXPORT const unsigned char DioBootcampNetworkVersionString[];
+FOUNDATION_EXPORT double DioNetworkBootcampVersionNumber;
+FOUNDATION_EXPORT const unsigned char DioNetworkBootcampVersionString[];
 

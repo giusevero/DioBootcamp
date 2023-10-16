@@ -1,6 +1,0 @@
-framework module DioBootcampNetwork {
-  umbrella header "DioBootcampNetwork-umbrella.h"
-
-  export *
-  module * { export * }
-}
